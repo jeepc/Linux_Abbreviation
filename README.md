@@ -12,7 +12,7 @@
 | PT        | page table  |  页面表  |
 | PTE       | PT entry  |   页面表项 |
 | PAE       | Physical Address Extension  |  物理地址扩展 |
-| PGDIR_SHIFT        | page dir SHIFT  |  * *shift有移位的意思，若地址共有<br>32位，若该值为22，则将改地址<br>向右移22位，即得到23-32位。|
+| PGDIR_SHIFT        | page dir SHIFT  |  *shift有移位的意思，若地址共有<br>32位，若该值为22，则将改地址<br>向右移22位，即得到23-32位。|
 | PMD_SHIFT       | PMD SHIFT  |   见上面 |
 | PTRS_PER_PGD       | pointers per PGD  |   每页面表指针数 |
 | PTRS_PER_PMD       | pointers per PMD  |   见上面 |
