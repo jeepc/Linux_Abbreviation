@@ -17,4 +17,7 @@
 | PTRS_PER_PGD       | pointers per PGD  |   每页面表指针数 |
 | PTRS_PER_PMD       | pointers per PMD  |   见上面 |
 | PTRS_PER_PTE       | pointers per PTE   |   见上面 |
+| TSS       | task state stack   |   任务状态栈 |
+| RPL       | request privilege level   |   请求的特权级别 |
+| MAX_NR_ZONES       | max number zones   |   最大内存管理区数 |
 
